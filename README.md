@@ -19,6 +19,27 @@ Calculate the hydrodynamic pressure around dimples under full-film lubrication
 <img src = "https://latex.codecogs.com/gif.latex?p=p_{cav}"/>
 
 
+<img src = "">
+<img src = "image/formula/1.png">
+<img src = "image/formula/2.png">
+<img src = "image/formula/3.png">
+<img src = "image/formula/4.png">
+<img src = "image/depth0.25_n500.png">
+<img src = "image/depth0.25_n500_2.png">
+<img src = "image/depth-meanp_n750.png">
+
+image/formula/1.png
+
+image/formula/2.png
+image/formula/3.png
+image/formula/4.png
+
+image/depth0.25_n500.png
+image/depth0.25_n500_2.png
+
+image/depth-meanp_n750.png
+
+
 # DEMO
 
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
