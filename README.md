@@ -20,14 +20,16 @@ Reynolds equation coupled with a mass-conservative cavitation algorithm
 　　　<img src="image/formula/5.png">,　　<img src="image/formula/6.png">,　　<img src="image/formula/7.png">
 
 
-# DEMO
+## DEMO
 
-**Parameter**
-<img src="image/parameter.png" width=200px>
+
+**Parameter**  
+
+<img src="image/parameter.png" width=350px>
 
 
 **Output**
 
 |**pressure_3D_grapgh**|**pressure_2D_pressure**|**depth-pressure_graph**|
 |---|---|---|
-|<img src="image/pressure_3Dgraph_depth025.png">|<img src="image/pressure_2Dgraph_depth025.png">|<img src="image/depth-meanp_n750.png">|
+|<img src="image/pressure_3Dgraph_depth025.png">|<img src="image/pressure_2Dgraph_depth025.png">|<img src="image/depth-meanp_n750.png" width=500px>|
