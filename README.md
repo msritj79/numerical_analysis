@@ -1,5 +1,5 @@
 # numerical_analysis
-Reynolds equation
+
 Calculate the hydrodynamic pressure around dimples under full-film lubrication
 
 1. Solving the Reynolds equation in cylindrical coordinates
