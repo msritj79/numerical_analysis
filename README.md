@@ -6,23 +6,28 @@ Calculate the hydrodynamic pressure around dimples under full-film lubrication
 2. Ignore surface roughness and asperity contact
 3. The cavitation boundary condition follows mass-conservative JFO model
 
-<img src="image/formula/1.png">
-<img src="image/formula/2.png">
-<img src="image/formula/3.png">
-<img src="image/formula/4.png">
-<img src="image/formula/5.png">
-<img src="image/formula/6.png">
-<img src="image/formula/7.png">
 
-<img src="image/depth0.25_n500.png">
-<img src="image/depth0.25_n500_2.png">
-<img src="image/depth-meanp_n750.png">
+## Equation  
+Reynolds equation coupled with a mass-conservative cavitation algorithm
+
+<img src="image/formula/1.png">
+
+　　For complete film zones:  
+　　　<img src="image/formula/2.png">,　　<img src="image/formula/3.png">, 　<img src="image/formula/4.png">
+
+
+　　For cavitated zones:  
+　　　<img src="image/formula/5.png">,　　<img src="image/formula/6.png">,　　<img src="image/formula/7.png">
 
 
 # DEMO
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+**Parameter**
+<img src="image/parameter.png" width=200px>
 
-# Features
 
-"hoge"のセールスポイントや差別化などを説明する
+**Output**
+
+|**pressure_3D_grapgh**|**pressure_2D_pressure**|**depth-pressure_graph**|
+|---|---|---|
+|<img src="image/pressure_3Dgraph_depth025.png">|<img src="image/pressure_2Dgraph_depth025.png">|<img src="image/depth-meanp_n750.png">|
