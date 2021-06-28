@@ -6,38 +6,17 @@ Calculate the hydrodynamic pressure around dimples under full-film lubrication
 2. Ignore surface roughness and asperity contact
 3. The cavitation boundary condition follows mass-conservative JFO model
 
-![image](https://user-images.githubusercontent.com/86471576/123514321-666d2200-d6cd-11eb-9198-843e61cfaa4e.png)
+<img src="image/formula/1.png">
+<img src="image/formula/2.png">
+<img src="image/formula/3.png">
+<img src="image/formula/4.png">
+<img src="image/formula/5.png">
+<img src="image/formula/6.png">
+<img src="image/formula/7.png">
 
-<img src = "https://latex.codecogs.com/gif.latex?F\frac{\partial}{\partial&space;r}\left&space;[&space;\frac{rh^3}{\mu}\frac{\partial&space;D}{\partial&space;r}&space;\right&space;]&space;&plus;&space;F\frac{\partial}{\partial&space;\theta}\left[\frac{h^3}{\mu&space;r}\frac{\partial&space;D}{\partial&space;\theta}&space;\right&space;]&space;=6&space;r&space;\Omega&space;\left[\frac{\partial&space;h}{\partial&space;\theta}&space;&plus;&space;(1-F)&space;\frac{\partial&space;hD}{\partial&space;\theta}&space;\right&space;]" />
-
-<img src = "https://latex.codecogs.com/gif.latex?F=1"/>
-<img src = "https://latex.codecogs.com/gif.latex?D=p-p_{cav}"/>
-<img src = "https://latex.codecogs.com/gif.latex?\rho=\rho_0"/>
-
-<img src = "https://latex.codecogs.com/gif.latex?F=0"/>
-<img src = "https://latex.codecogs.com/gif.latex?D=\frac{\rho}{\rho_0}-1"/>
-<img src = "https://latex.codecogs.com/gif.latex?p=p_{cav}"/>
-
-
-<img src = "">
-<img src = "image/formula/1.png">
-<img src = "image/formula/2.png">
-<img src = "image/formula/3.png">
-<img src = "image/formula/4.png">
-<img src = "image/depth0.25_n500.png">
-<img src = "image/depth0.25_n500_2.png">
-<img src = "image/depth-meanp_n750.png">
-
-image/formula/1.png
-
-image/formula/2.png
-image/formula/3.png
-image/formula/4.png
-
-image/depth0.25_n500.png
-image/depth0.25_n500_2.png
-
-image/depth-meanp_n750.png
+<img src="image/depth0.25_n500.png">
+<img src="image/depth0.25_n500_2.png">
+<img src="image/depth-meanp_n750.png">
 
 
 # DEMO
